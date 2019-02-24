@@ -3,5 +3,5 @@
     <string name="btn_enumerate">Enumerate Devices</string>
     <string name="btn_properties">List Properties</string>
     <string name="no_devices">No USB devices connected</string>
-    <string name="perms_denied">Permission denied for</string>
+    <string name="perms_denied">Permission denied for %s</string>
 </resources>
